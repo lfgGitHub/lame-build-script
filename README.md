@@ -18,12 +18,3 @@ script to build lame for iOS
 ```
 ./build-lame.sh lipo
 ```
-
-## Configuration
-
-Change variables at the beginning to suit your needs.
-
-## Tested with
-
-* lame 3.99.5
-* Xcode 7.2
